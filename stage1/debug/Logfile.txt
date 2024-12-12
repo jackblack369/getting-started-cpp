@@ -1,0 +1,4 @@
+﻿2024-11-05 15:03:31.526 DEBUG [51268004] [main@21] main() called
+2024-11-05 15:03:31.526 DEBUG [51268004] [getUserInput@9] getUserInput() called
+2024-11-05 15:03:47.801 DEBUG [51269139] [main@21] main() called
+2024-11-05 15:03:47.801 DEBUG [51269139] [getUserInput@9] getUserInput() called
