@@ -4,7 +4,7 @@ struct Pair
 {
     T first{};
     U second{};
-};
+};  
 
 // Here's a deduction guide for our Pair (needed in C++17 only)
 // Pair objects initialized with arguments of type T and U should deduce to Pair<T, U>

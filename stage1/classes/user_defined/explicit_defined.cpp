@@ -30,6 +30,6 @@ int main()
     print(d2);
 
     print(static_cast<Dollars>(5)); // ok: static_cast will use explicit constructors
-    
+
     return 0;
 }
